@@ -2,7 +2,7 @@
 from datetime import timedelta
 import logging
 
-DOMAIN = "solaredgeoptimizers"
+DOMAIN = "solaredgeoptimizers1"
 CONF_SITE_ID = "siteid"
 DATA_API_CLIENT = "api_client"
 
